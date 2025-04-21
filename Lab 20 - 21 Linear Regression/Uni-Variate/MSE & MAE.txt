@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/python-mean-squared-error/
+
+https://www.geeksforgeeks.org/how-to-calculate-mean-absolute-error-in-python/
